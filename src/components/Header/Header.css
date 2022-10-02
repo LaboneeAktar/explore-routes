@@ -1,0 +1,20 @@
+.header {
+    margin: 30px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+
+.header a:hover {
+    color: red;
+}
+
+.active {
+    background-color: antiquewhite;
+}
